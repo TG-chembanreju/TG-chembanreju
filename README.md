@@ -32,7 +32,7 @@ x] Auto Filter
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up with your edits.
+Read [this](https://telegram.dog/TeamBhavani/12) before you start messing up with your edits.
 
 
 ### Required Variables
@@ -49,7 +49,7 @@ Read [this](https://telegram.dog/TeamEvamaria/12) before you start messing up wi
 ### Optional Variables
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used seperated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
-* Check [info.py](https://github.com/EvamariaTG/evamaria/blob/master/info.py) for more
+* Check [info.py](https://github.com/TG-chembanreju/TG-chembanreju/blob/master/info.py) for more
 # Deploy
 You can deploy this bot an 
 52
@@ -67,7 +67,7 @@ You can deploy this bot an
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/TG-chembanreju/TG-chembanreju/edit/main/README.md
+git clone https://github.com/TG-chembanreju/TG-chembanreju
 
 # Install Packages
 pip3 install -r requirements.txt
@@ -112,7 +112,7 @@ python3 bot.py
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://telegram.dog/TeamEvamaria)
 
 ## Credits 
-* [![EvaMaria-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/EvaMariaDevs)
+* [![BHAVANI-Devs](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/BHAVANIDevs)
 
 ## Thanks to 
  - Thanks To Dan For His Awsome [Libary](https://github.com/pyrogram/pyrogram)
